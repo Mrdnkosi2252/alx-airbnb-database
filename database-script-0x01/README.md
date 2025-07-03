@@ -32,6 +32,3 @@ This directory contains the SQL Data Definition Language (DDL) scripts to create
 2. Ensure the database `airbnb` is created before running the script.
 3. Verify table creation and constraints using appropriate SQL commands (e.g., `DESCRIBE` or `\d`).
 
-## Notes
-- VARCHAR lengths (e.g., 50, 100, 255) are set as reasonable defaults; adjust as needed.
-- DECIMAL(10, 2) is used for monetary fields to support two decimal places.
