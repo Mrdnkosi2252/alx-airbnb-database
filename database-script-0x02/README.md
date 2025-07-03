@@ -19,7 +19,3 @@ This directory contains SQL scripts to populate the `airbnb` database with sampl
 2. Execute the `seed.sql` script in a SQL environment (e.g., MySQL, PostgreSQL) that supports UUID and ENUM types.
 3. Verify data insertion using SELECT queries (e.g., `SELECT * FROM User;`).
 
-## Notes
-- UUIDs are manually assigned for simplicity; in production, use a UUID generator.
-- Dates are set relative to June 30, 2025, reflecting future bookings and past actions.
-- Adjust VARCHAR lengths or DECIMAL precision if needed based on your schema.
