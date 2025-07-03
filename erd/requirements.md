@@ -87,6 +87,3 @@ The following relationships were defined between entities:
 - ERD file: `ERD/airbnb_erd.png`
 - Documentation: This `requirements.md` file.
 
-## Notes
-- The ERD uses crow’s foot notation where applicable to indicate relationships.
-- Additional indexing (e.g., on `email`, `property_id`) is planned for performance but not shown in the diagram.
